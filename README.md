@@ -84,7 +84,8 @@ With intelligent retrieval, summarization, and question answering, it empowers s
 
 Upload & Ask Questions
 
-<img width="1841" height="849" alt="image" src="https://github.com/user-attachments/assets/a402ccb3-541a-4497-856b-d8324c1d523f" />  
+<img width="1848" height="964" alt="image" src="https://github.com/user-attachments/assets/0059d6c6-354f-4418-92a6-51c268805287" />
+
 
 AI-Generated Answer
 
