@@ -2,25 +2,33 @@
 
 📘 StudyMate – Your AI-Powered Learning Assistant
 
-🔗 Live Demo: StudyMate App  
+🔗 Live Demo:[ StudyMate App  ](https://study-mate-nad4eg9s56v3rgxtgffcjy.streamlit.app/)
 
 StudyMate is an AI-powered learning assistant designed to help students understand, summarize, and interact with study materials.
 Built with Streamlit, FAISS, Sentence Transformers, and IBM WatsonX AI, the app enables users to upload PDFs, ask context-aware questions, and receive instant AI-generated answers.
 
 ✨ Features
 
-✅ Upload and parse PDF study materials
-✅ AI-powered question answering & summaries
-✅ Vector search with FAISS for efficient retrieval
-✅ Conversational interface powered by LLMs
+✅ Upload and parse PDF study materials.
+
+✅ AI-powered question answering & summaries.
+
+✅ Vector search with FAISS for efficient retrieval.
+
+✅ Conversational interface powered by LLMs.
+
 ✅ Deployed seamlessly on Streamlit Cloud
 
 🏗️ Architecture
 
 PDF Upload & Processing → Extract text from PDFs using PyPDF2
+
 Embeddings Generation → Encode content with Sentence Transformers
+
 Vector Database → Store and search embeddings using FAISS
+
 LLM Layer → IBM WatsonX AI + Transformers for response generation
+
 Streamlit UI → Simple, interactive frontend for learners 
 
 📂 Tech Stack
