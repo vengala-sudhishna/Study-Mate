@@ -34,14 +34,20 @@ Streamlit UI → Simple, interactive frontend for learners
 📂 Tech Stack
 
 Frontend: Streamlit
+
 Backend: Python
+
 AI/ML: Sentence Transformers, Transformers, Torch
+
 Vector Search: FAISS
+
 Integrations: IBM WatsonX AI, Requests, dotenv
+
 Deployment: Streamlit Cloud
 
 🚀 Deployment
 This app is deployed using Streamlit Community Cloud.
+
 👉 Try it here : https://study-mate-nad4eg9s56v3rgxtgffcjy.streamlit.app/  
 
 🚀 Getting Started
@@ -57,9 +63,13 @@ streamlit run app.py
 
 📊 Future Scope
 ✨ Support for multiple file formats (DOCX, TXT)
+
 ✨ Personalized learning paths with AI recommendations
+
 ✨ Voice-enabled Q&A assistant
+
 ✨ Real-time collaboration between students 
+
 
 🎯 Conclusion
 
@@ -68,12 +78,18 @@ With intelligent retrieval, summarization, and question answering, it empowers s
 
 📸 Screenshots
 Upload & Ask Questions
+
 <img width="1841" height="849" alt="image" src="https://github.com/user-attachments/assets/a402ccb3-541a-4497-856b-d8324c1d523f" />  
+
 AI-Generated Answer
+
 <img width="1841" height="849" alt="image" src="https://github.com/user-attachments/assets/a38760b0-15c8-4d65-a080-4bcff771a873" /> 
 
+
 🤝 Contributors
+
 👩‍💻 Vengala Sudhishna 
+
 🤖 Powered by IBM WatsonX and SentenceTransformers 
 
 
