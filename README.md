@@ -9,41 +9,41 @@ Built with Streamlit, FAISS, Sentence Transformers, and IBM WatsonX AI, the app 
 
 ✨ Features
 
-✅ Upload and parse PDF study materials.
-
-✅ AI-powered question answering & summaries.
-
-✅ Vector search with FAISS for efficient retrieval.
-
-✅ Conversational interface powered by LLMs.
-
-✅ Deployed seamlessly on Streamlit Cloud
+          ✅ Upload and parse PDF study materials.
+          
+          ✅ AI-powered question answering & summaries.
+          
+          ✅ Vector search with FAISS for efficient retrieval.
+          
+          ✅ Conversational interface powered by LLMs.
+          
+          ✅ Deployed seamlessly on Streamlit Cloud
 
 🏗️ Architecture
 
-PDF Upload & Processing → Extract text from PDFs using PyPDF2
-
-Embeddings Generation → Encode content with Sentence Transformers
-
-Vector Database → Store and search embeddings using FAISS
-
-LLM Layer → IBM WatsonX AI + Transformers for response generation
-
-Streamlit UI → Simple, interactive frontend for learners 
+        PDF Upload & Processing → Extract text from PDFs using PyPDF2
+        
+        Embeddings Generation → Encode content with Sentence Transformers
+        
+        Vector Database → Store and search embeddings using FAISS
+        
+        LLM Layer → IBM WatsonX AI + Transformers for response generation
+        
+        Streamlit UI → Simple, interactive frontend for learners 
 
 📂 Tech Stack
 
-Frontend: Streamlit
-
-Backend: Python
-
-AI/ML: Sentence Transformers, Transformers, Torch
-
-Vector Search: FAISS
-
-Integrations: IBM WatsonX AI, Requests, dotenv
-
-Deployment: Streamlit Cloud
+        Frontend: Streamlit
+        
+        Backend: Python
+        
+        AI/ML: Sentence Transformers, Transformers, Torch
+        
+        Vector Search: FAISS
+        
+        Integrations: IBM WatsonX AI, Requests, dotenv
+        
+        Deployment: Streamlit Cloud
 
 🚀 Deployment
 This app is deployed using Streamlit Community Cloud.
@@ -51,17 +51,21 @@ This app is deployed using Streamlit Community Cloud.
 👉 Try it here : https://study-mate-nad4eg9s56v3rgxtgffcjy.streamlit.app/  
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/studymate.git
 cd studymate
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt  
 
 3️⃣Run the App Locally
+
 streamlit run app.py
 
 📊 Future Scope
+
 ✨ Support for multiple file formats (DOCX, TXT)
 
 ✨ Personalized learning paths with AI recommendations
@@ -77,6 +81,7 @@ StudyMate bridges the gap between traditional study materials and modern AI tool
 With intelligent retrieval, summarization, and question answering, it empowers students to learn smarter and faster. 
 
 📸 Screenshots
+
 Upload & Ask Questions
 
 <img width="1841" height="849" alt="image" src="https://github.com/user-attachments/assets/a402ccb3-541a-4497-856b-d8324c1d523f" />  
