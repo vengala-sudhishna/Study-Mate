@@ -53,17 +53,17 @@ This app is deployed using Streamlit Community Cloud.
 🚀 Getting Started
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/studymate.git
-
-cd studymate
+          git clone https://github.com/your-username/studymate.git
+          
+          cd studymate
 
 2️⃣ Install Dependencies
 
-pip install -r requirements.txt  
+          pip install -r requirements.txt  
 
 3️⃣Run the App Locally
 
-streamlit run app.py
+          streamlit run app.py
 
 📊 Future Scope
 
